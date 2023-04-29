@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%7Baround-react%7D/static/css/main.cc065600.css",
+    "main.js": "/%7Baround-react%7D/static/js/main.6133a926.js",
+    "static/js/787.1c78f32b.chunk.js": "/%7Baround-react%7D/static/js/787.1c78f32b.chunk.js",
+    "static/media/around_logo_header.svg": "/%7Baround-react%7D/static/media/around_logo_header.4e8e0a1d604782a0dff8e5b1a5441e4d.svg",
+    "static/media/button_like.svg": "/%7Baround-react%7D/static/media/button_like.3826c074a1b94b101e38.svg",
+    "index.html": "/%7Baround-react%7D/index.html",
+    "static/media/trash-button.svg": "/%7Baround-react%7D/static/media/trash-button.8cb59aa98088a1653f62c7e338721dde.svg",
+    "static/media/button_like-active.svg": "/%7Baround-react%7D/static/media/button_like-active.226461bd64622361ffb2.svg",
+    "static/media/buttton_close.svg": "/%7Baround-react%7D/static/media/buttton_close.81d0f6a6ee1da3d7d7d2.svg",
+    "static/media/button_edit.svg": "/%7Baround-react%7D/static/media/button_edit.8667ac4a523e8fc42e59.svg",
+    "static/media/profile__image-edit-icon.svg": "/%7Baround-react%7D/static/media/profile__image-edit-icon.a086f758840ae814ecde.svg",
+    "static/media/button_add.svg": "/%7Baround-react%7D/static/media/button_add.d86bb2edc2f6eadb96b7.svg",
+    "main.cc065600.css.map": "/%7Baround-react%7D/static/css/main.cc065600.css.map",
+    "main.6133a926.js.map": "/%7Baround-react%7D/static/js/main.6133a926.js.map",
+    "787.1c78f32b.chunk.js.map": "/%7Baround-react%7D/static/js/787.1c78f32b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc065600.css",
+    "static/js/main.6133a926.js"
+  ]
+}
