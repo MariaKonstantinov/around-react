@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/around-react/static/css/main.a710d92a.css",
-    "main.js": "/around-react/static/js/main.b582d8ee.js",
+    "main.css": "/around-react/static/css/main.55ed7d9a.css",
+    "main.js": "/around-react/static/js/main.1b62960d.js",
     "static/js/787.1c78f32b.chunk.js": "/around-react/static/js/787.1c78f32b.chunk.js",
     "static/media/around_logo_header.svg": "/around-react/static/media/around_logo_header.4e8e0a1d604782a0dff8e5b1a5441e4d.svg",
     "static/media/button_like.svg": "/around-react/static/media/button_like.3826c074a1b94b101e38.svg",
@@ -12,12 +12,12 @@
     "static/media/button_edit.svg": "/around-react/static/media/button_edit.8667ac4a523e8fc42e59.svg",
     "static/media/profile__image-edit-icon.svg": "/around-react/static/media/profile__image-edit-icon.a086f758840ae814ecde.svg",
     "static/media/button_add.svg": "/around-react/static/media/button_add.d86bb2edc2f6eadb96b7.svg",
-    "main.a710d92a.css.map": "/around-react/static/css/main.a710d92a.css.map",
-    "main.b582d8ee.js.map": "/around-react/static/js/main.b582d8ee.js.map",
+    "main.55ed7d9a.css.map": "/around-react/static/css/main.55ed7d9a.css.map",
+    "main.1b62960d.js.map": "/around-react/static/js/main.1b62960d.js.map",
     "787.1c78f32b.chunk.js.map": "/around-react/static/js/787.1c78f32b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a710d92a.css",
-    "static/js/main.b582d8ee.js"
+    "static/css/main.55ed7d9a.css",
+    "static/js/main.1b62960d.js"
   ]
 }
