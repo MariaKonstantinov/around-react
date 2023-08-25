@@ -24,7 +24,7 @@ The concept of this project - travel lovers social media app - is to help people
 
 - Sprint 2 => Add Current User Context (currentUser state), so all app components can get access to this data. Use Context in Main, Card components. Add likes and Card deleting functionality. Refactor Profile Editing. Save data to API. Refactor Avatar Editing. Refactor Card functionality. Add DeleteCardPopup component.
 
-**:four_leaf_clover: Project Link (Figma) design**
+**:four_leaf_clover: Project Link (Figma) initial design**
 
 - [Project Link in Figma](https://www.figma.com/file/SurN1jaeEQIhuZEDMhmWWf/Sprint-4-Around-The-U.S.-desktop-mobile?node-id=0%3A1)
 
